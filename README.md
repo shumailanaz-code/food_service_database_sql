@@ -74,6 +74,3 @@ The database, named **FoodserviceDB**, is built using four CSV files provided vi
    - Use of `IN`
    - Use of system functions (e.g., `ROUND()`, `NOW()`)
    - Use of `GROUP BY`, `HAVING`, and `ORDER BY`
-
-## 🧱 Entity Relationships
-
